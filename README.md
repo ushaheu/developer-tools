@@ -1,5 +1,5 @@
 # developer-tools
-# To Install Redis, Zookeepr and Kafka <br/>
+# To Install Redis, Zookeeper and Kafka <br/>
 Pull Repository to Local System <br/>
 Install Docker <br/>
 Install Docker Compose <br/>
