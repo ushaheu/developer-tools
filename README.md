@@ -1,7 +1,7 @@
 # developer-tools
-#To Install Redis, Zookeepr and Kafka
-Pull Repository to Local System
-Install Docker
-Install Docker Compose
-Navigate to Directory of Repository
+# To Install Redis, Zookeepr and Kafka <br/>
+Pull Repository to Local System <br/>
+Install Docker <br/>
+Install Docker Compose <br/>
+Navigate to Directory of Repository <br/>
 Run docker-compose up -d
